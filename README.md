@@ -1,38 +1,38 @@
-# 💸 Expense Manager
+# 🤖 Nexa AI
 
-A fully functional expense tracking app built with HTML, CSS, and JavaScript. It supports filtering by month, search, Excel export, and Firebase integration for persistent data storage.
+A smart AI assistant interface built with HTML/CSS/JS, designed for interactive use with admin controls, voice input, and smooth animations.
 
-## 🔧 Features
+## ✨ Features
 
-- Add, edit, and delete expenses
-- Filter by month
-- Search by vendor or invoice number
-- Export to Excel
-- Firebase Realtime Database support
-- Dark mode modern UI
-- Monthly totals & expense charts
-- Admin-level functionality
+- Chat-based AI interface
+- Voice message input (Web Speech API)
+- Admin panel to track queries
+- Responsive UI
+- Nexa-branded design
+- Shows creator name on prompt
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
 - HTML, CSS, JavaScript
-- Firebase (Authentication + Realtime DB)
-- SheetJS (for Excel export)
+- Web Speech API (voice)
+- Custom prompt handler (mocked)
 
-## 📸 Screenshots
+## 📦 Structure
 
-Coming soon
+- `/index.html` – Main AI interface
+- `/admin.html` – Admin log panel
+- `/nexa.js` – Smart prompt & UI logic
 
-## 🔗 Live Preview
+## 🚀 Future Features
 
-[See it live](https://store.nexamc.fun)
+- GPT API connection
+- Chat history saving
+- User profiles
 
-## 📁 Folder Structure
+## 🌐 Live Preview
 
-- `/index.html`
-- `/style.css`
-- `/script.js`
+[Coming Soon]
 
-## 🧠 Author
+## 👤 Built By
 
 [Rishav Raj](https://github.com/RishavRaj379)
